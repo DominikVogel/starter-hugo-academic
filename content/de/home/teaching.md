@@ -1,20 +1,16 @@
-+++
-# Custom widget.
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
-widget = "custom"
-headless = true  # This file represents a page section.
+---
+widget: blank
+headless: true
 active = true
-date = 2018-11-06T00:00:00
 
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Lehre"
-subtitle = ""
-
-# Order that this section will appear in.
-weight = 40
-
-+++
+# ... Put Your Section Options Here (title etc.) ...
+title = Lehre
+subtitle = 
+weight: 40  # section position on page
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+---
 
 Ich lehre an der Universität Hamburg forschungsorientierte Kurse sowie Kurse zum Public Management auf Bachelor- und Masterniveau. 
 
@@ -25,4 +21,3 @@ Folgende Kurse lehre ich regelmäßig an der Universität Hamburg:
 - Theoretische und praktische Aspekte des Public & Nonprofit Managements (Bachelor)
 
 Darüber hinaus lehre ich das Teilmodul "Personalmanagement" im [Master Nonprofit-Management & Governance](https://www.wwu-weiterbildung.de/npm) an der Universität Münster.
-
