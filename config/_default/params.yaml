@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Prof. Dr. Dominik Vogel'
+    twitter: 'DrDominikVogel'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -34,7 +34,7 @@ header:
     enable: true
     align: l
     show_logo: true
-    show_language: false
+    show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: true
@@ -44,16 +44,16 @@ footer:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
       enable: true
-      allow_derivatives: false
+      allow_derivatives: true
       share_alike: true
-      allow_commercial: false
+      allow_commercial: true
 
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
+  date_format: '02. January 2006'
+  time_format: '15:04'
+  address_format: de-de
 
 # Site features
 
@@ -68,13 +68,13 @@ features:
   diagram:
     enable: false
   privacy_pack:
-    enable: false
+    enable: true
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/DominikVogel'
     content_dir: content
     branch: master
   avatar:
-    gravatar: false
+    gravatar: true
     shape: circle
   comment:
     provider: ''
@@ -91,9 +91,9 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'mapnik'
     api_key: ''
-    zoom: 15
+    zoom: 12
 
 # Extensions
 
