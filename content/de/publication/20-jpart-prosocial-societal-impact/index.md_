@@ -1,0 +1,78 @@
++++
+title = "The Effects of Making Public Service Employees Aware of Their Prosocial and Societal Impact: A Microintervention study"
+date = "2020-01-18T00:00:00"
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["**Vogel, D.**", "Willems, J."]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Manuscript
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+publication_types = ["2"]
+
+# Publication name and optional abbreviated version.
+publication = "*Journal of Public Administration Research and Theory*"
+# publication_short = "In *ICMEW*"
+
+# Abstract.
+abstract = "Over the past decade, practitioners and scholars have intensified the discussions around people’s expectations from their jobs and how public and private organizations can succeed in the war for talent. In this context, it has become obvious that people not only seek high salaries and career opportunities but also meaningfulness in their daily tasks. Although many public service jobs offer opportunities to help others (prosocial impact) or contribute to society (societal impact), employees tend to become accustomed to these positive aspects or forget about them. This article tests whether a microintervention that emphasizes employees’ prosocial or societal impact can positively affect their well-being, intention to stay in the job, and willingness to recommend their respective jobs to others. The combined results of three preregistered experiments reveal that microinterventions can indeed have these effects, particularly if they focus on creating awareness about the jobs’ societal impact."
+
+# Summary. An optional shortened abstract.
+# summary = ""
+
+# Digital Object Identifier (DOI)
+doi = "10.1093/jopart/muz044"
+
+# Is this a featured publication? (true/false)
+featured = false
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["Motivation", "Prosozialer Einfluss", "Gesellschaftlicher Einfluss", "Sinnstiftung"]
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- motivation
+
+links:
+- name: "Open Access Post-Print"
+  url: "publications/Vogel_Willems_Prosocial_Societal_Impact_Microintervention.pdf"
+url_pdf = https://doi.org/10.1093/jopart/muz044
+url_preprint = ""
+url_code = https://doi.org/10.17605/OSF.IO/W97H4
+url_dataset = https://doi.org/10.17605/OSF.IO/W97H4
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = https://doi.org/10.17605/OSF.IO/W97H4
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+#links = [{name = "Open Access Post-Print", url = "publications/Vogel_Willems_Prosocial_Societal_Impact_Microintervention.pdf"}]
+
+# Does this page contain LaTeX math? (true/false)
+math = false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+# [image]
+  # Caption (optional)
+  # caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
++++
+
+
