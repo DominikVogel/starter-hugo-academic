@@ -17,6 +17,6 @@ en:
     description: Assistant Professor of Public Management
   menu:
     main:
-      - name: 'Home'
+      - name: Home
         url: '#about'
         weight: 1
