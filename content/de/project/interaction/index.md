@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Interaktion von Bürgern mit der Verwaltung"
+title = "Interaktion von Bürger:innen mit der Verwaltung"
 
 # Date this page was created.
 date = 2018-10-21T00:00:00
