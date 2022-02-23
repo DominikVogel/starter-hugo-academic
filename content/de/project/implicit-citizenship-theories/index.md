@@ -1,5 +1,5 @@
 ---
-title: Implizite Bürger\*innentheorien 
+title: 'Implizite Bürger:innentheorien'
 summary: Welche impliziten Vorstellungen über typische oder ideale Eigenschaften von Bürger/innen haben Beschäftigte der Verwaltung?
 tags:
 - Implicit Citizenship Theories
