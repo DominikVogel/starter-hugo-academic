@@ -43,7 +43,7 @@ footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
-      enable: false
+      enable: true
       allow_derivatives: true
       share_alike: true
       allow_commercial: true
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: true
   repository:
-    url: 'https://github.com/DominikVogel'
+    url: 'https://github.com/DominikVogel/starter-hugo-academic'
     content_dir: content
     branch: master
   avatar:
