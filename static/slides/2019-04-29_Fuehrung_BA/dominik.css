@@ -1,0 +1,32 @@
+a, a > code {
+  /* color: rgb(249, 38, 114); */
+  color: rgb(0, 0, 0); 
+  text-decoration: none;
+}
+
+.inverse h1, .inverse h2, .inverse h3 .inverse a, a > code {
+  color: #f3f3f3;
+}
+
+.remark-slide-number {
+  font-size: 10pt;
+  font-family: 'Yanone Kaffeesatz';
+}
+
+
+/* Enable smaller font sizes */
+.small { 
+  font-size: 70%; 
+  line-height: normal; 
+}
+  
+.tiny { 
+  font-size: 50%; 
+  line-height: 0.2px; 
+}
+  
+.pull-right-tiny {
+  float: right;
+  width: 47%;
+  line-height: 0.7;
+}
