@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me.'
+    notice: '© {year}'
     license:
       enable: false
       allow_derivatives: true
