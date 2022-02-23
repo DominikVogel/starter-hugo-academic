@@ -71,4 +71,4 @@ email: "post@vogel-online.info"
 highlight_name: true
 ---
 
-
+I am Assistant Professor of Public Management at the University of Hamburg. My research focuses on the motivation of public employees, what makes leadership in the public sector successful, how citizens interact with public administrations, and how public organizations manage performance.
