@@ -27,7 +27,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: *Government Information Quarterly*
+publication: "*Government Information Quarterly*"
 # publication_short: 
 
 abstract: Public administrations invest heavily in the development of ‘smart’ public services, including autonomous public service robots. Since public service robots are designed to operate unsupervised, robots must interact in an ethically acceptable way with citizens. Robots are often designed to provide a comfortable interaction with citizens, which can be achieved by making the robot's appearance and actions more human-like. This raises the question whether a human-like design affects the ethicalness evaluation of a robot's actions. In a laboratory experiment with eye-tracking (n1 = 156) and a representative, online vignette experiment (n2 = 1339), we find that a more human-like robot design draws more visual attention than a robot with a less human-like design. However, the robot's appearance does not affect the ethicalness evaluation of the robot's behavior. In contrast, our results show that it is not the more human-like appearance that influences evaluations of ethicalness, but a robot's ethical actions influence the extent to which it is perceived as human. We frame our findings in the scientific and practitioner debates on ethical rule-setting for (public) service robots.
