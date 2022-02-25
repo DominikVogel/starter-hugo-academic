@@ -7,7 +7,7 @@ title: "Ethics of robotized public services: The role of robot design and its ac
 authors:
 - Willems, J.
 - Schmidthuber, L.
-- **Vogel, D.**
+- "**Vogel, D.**"
 - Ebinger, F.
 - Vanderelst, D.
 
